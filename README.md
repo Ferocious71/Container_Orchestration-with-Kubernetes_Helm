@@ -11,8 +11,8 @@ https://github.com/UnpredictablePrashant/learnerReportCS_backend
 
 # steps to perform -
 
-1. Ceate the Dockerfile for both Frontend and Backend
-2. Login into Docker from IDE (vscode) then Build and Push it to Docker Hub.
+## 1. Ceate the Dockerfile for both Frontend and Backend
+## 2. Login into Docker from IDE (vscode) then Build and Push it to Docker Hub.
 
 # commands - 
 cd ../learnerReportCS_backend
