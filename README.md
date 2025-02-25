@@ -1,4 +1,4 @@
-![Mongodb-connection](https://github.com/user-attachments/assets/acb0cb14-5fb6-41b9-abc6-7ab7375660a3)# Container_Orchestration-with-MERN_and_Kubernetes_Helm
+# Container_Orchestration-with-MERN_and_Kubernetes_Helm
 
 Creating Kubernetes deployment files and a HELM chart for a MERN (MongoDB, Express.js, React.js, Node.js) based application.
 
@@ -55,6 +55,4 @@ kubectl get pods
 
 ![Mongodb-connection](https://github.com/user-attachments/assets/98cf6bef-25c3-427b-a0e9-30e0822ad7c3)
 
-
-
-
+![Mongodb-connection](https://github.com/user-attachments/assets/acb0cb14-5fb6-41b9-abc6-7ab7375660a3)
