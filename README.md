@@ -5,6 +5,9 @@ Creating Kubernetes deployment files and a HELM chart for a MERN (MongoDB, Expre
 1. Develop Kubernetes deployment files for both frontend and backend components, ensuring seamless deployment and scalability.
 2. Create a HELM chart to streamline the deployment process, allowing for easy configuration and management.
 3. Write Jenkins Groovy code to automate the build and deployment process, ensuring consistency and efficiency in your CI/CD pipeline.
+4. clone repos- 
+git clone https://github.com/UnpredictablePrashant/learnerReportCS_frontend
+git clone https://github.com/UnpredictablePrashant/learnerReportCS_backend
 
 # steps to perform -
 
