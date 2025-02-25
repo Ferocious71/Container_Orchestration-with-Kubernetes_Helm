@@ -1,0 +1,24 @@
+replicaCount: 2
+
+image:
+  backend: "ferocious71/learner-backend:latest"
+  frontend: "ferocious71/learner-frontend:latest"
+
+service:
+  type: ClusterIP
+  port: 80
+
+mongodb:
+  uri: "mongodb+srv://ferocious71:salman71@cluster14.sjvuc.mongodb.net/admin?retryWrites=true&w=majority"
+
+ingress:
+  enabled: false
+  hostname: "learnerreport.local"
+
+resources:
+  requests:
+    cpu: "250m"
+    memory: "256Mi"
+  limits:
+    cpu: "500m"
+    memory: "512Mi"
